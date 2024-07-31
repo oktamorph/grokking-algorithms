@@ -1,6 +1,4 @@
-﻿using System.Runtime.CompilerServices;
-
-namespace DijkstraAlgorithm
+﻿namespace DijkstraAlgorithm
 {
     internal class Program
     {
